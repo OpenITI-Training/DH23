@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2023-03-07T17:24:41.642900+00:00
+CREATED BY: eScriptorium vv0.12.3c
+IMAGE FILENAME: 0355IbnQass.DalailQibla.pdf_page_104.png
+IMAGE WIDTH: 1859
+IMAGE HEIGHT: 2664
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p> [2ب] بسم الله الرحمن الرحيم
+        <lb/> وبه نستعیين
+                <lb/> (الْحَمْدُ للَّه الَذِي خلق السَّمَاوَاتِ وَالأَرْضَ وَجَعَل الظُلُْمَاتِ وَالنـورَ ثُمَّ الَذِين كفَرُوا بربهم يَعْدِلونَ)(١) خلقها بلا معين عليها، ورافع السماء بغير عمدٍ ترونها، وخلق سبع سماوات طباقا، وجعل القمر فيهن نـورا. وبعث محمدا، صلى الله عليه وسلم، رسولا من أنفسكم؛ عزيز عليه ما عنتم، حريص عليكم، بالمؤمنين رؤوف رحيم. رفع ذكره في الآخرة واتاه فضيلته على جميع الورَى(٢) فخصه بالرسالة وابتغاه وولاه وارتضاه ثم أرسله ليظهره على الدين كله ولو كره المشركون. قال جل ذكره: (قَدْ نرَى تقلبَ وَجهكَ في السَّمَاءِ فَلَذْولَيَنكَ قِبلَةً ترْضَاها فَوَل وَجْهَكَ شطْرَ المَسْجِدِ الحَرَام)(٣). إلى قولـه: (لـئلا يكـون للناس عَلَيْكعْ حُجَّةٌ)(٤) فاسكت به كل حسود، وأفحم به سفهاء اليهود، وفيه يصفهم جل ثناؤه(5): (1) سورة الإنعام: ١٠٦. (٢) الوَرَى: الخلق والجماعة. ابن منظور، لسان، مادة (وري) ٩١٦/٣. (٣) سورة البقرة: ۲:۱٤٤. (4) سورة البقرة: ٢: ١٥٠. (5) قوله: (قاسكت به كل حسود وأفحم به سفهاء اليهود) قال ابن هشام: أبو محمد عبـد لملك الحميري (المتوفى: 218هـ/ ٨٣٣م) : سيرة النبي المعروفة بسيرة ابن هشام، تحقيق: محمد محي الدبن عبد الحميد (القاهرة: مكتبة محمد علي صبيح وأولاده- ١٩٦٣م) ۳۹١/٢: (ولما صرفت القبلة عن الشام إلى الكعبة... أنى رسول الله صلى الله عليه وسلم، رفاعة بن فيسى وقردم بن عمرو وكعب الاشرف ورافع بن أبي رافع والحجاج بن عمرو... والربيع بن الربيع بن أبي الحقيق وكنانة بن الربيع بـن أبي - 109 -
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>
